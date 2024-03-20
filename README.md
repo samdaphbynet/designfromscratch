@@ -18,7 +18,7 @@
 # Version mobile :
 
 <p align="center">
-  <img src="https://samdaph.com/portfolio/desk.jpg" width="1000" title="hover text">
+  <img src="https://samdaph.com/portfolio/desk.jpg" title="hover text">
 </p>
 
 #### This webpage has been designed by Nicolas Philippot, UI/UX designer.
